@@ -10,3 +10,4 @@ const fourthCommitOnBranchOne = 4;
 const update2 = 'Tried to merge commit 4 using SourceTree, I think things got merged.  After resvoling conflicts, I checked out branchOne and did git rebase master.'
 
 const update3 = 'Commit 5 is still on branchOne, everything else is on master.'
+const fifthCommitOnBranchOne = 5;
