@@ -14,3 +14,5 @@ const fifthCommitOnBranchOne = 5;
 const update3 = 'Commit 5 is still on branchOne, everything else is on master.';
 
 const update4 = 'Checked out branchOne, did git rebase master, resolved conflicts, commit 5 applied on branchOne';
+
+const update5 = 'While on master, did git rebase branchOne, after resolving conflicts (I forgot to remove the duplicate line), commit 5 now included.';
